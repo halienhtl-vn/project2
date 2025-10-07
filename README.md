@@ -1,4 +1,5 @@
-# SuperStore Sales Analysis (Python with pandas, numpy, matplotlib, seaborn)
+# Project 2. Python Project - SuperStore Sales Analysis 
+(Python with pandas, numpy, matplotlib, seaborn)
 ## Goal
 Analyze sales performance, profitability, and customer behaviour.
 ## Data Set
